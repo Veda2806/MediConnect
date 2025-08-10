@@ -26,9 +26,13 @@ Project Structure
 
 MediConnect/
 ├── app/                 # Source code
+
 ├── gradle/              # Gradle wrapper files
+
 ├── build.gradle         # Project-level build configuration
+
 ├── settings.gradle      # Module inclusion
+
 ├── README.md            # Project documentation
 
 Quick Start
