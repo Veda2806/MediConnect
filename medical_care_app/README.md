@@ -1,6 +1,6 @@
 # MediConnect: Smart Healthcare Management
 
-MediConnect is a professional Android-based healthcare management application for booking doctor appointments, accessing curated medical articles, and interacting with an AI health assistant — all in one place.  
+MediConnect is a professional Android-based healthcare management application for booking doctor appointments, accessing curated medical articles all in one place.  
 
 This project combines Android Studio’s powerful UI capabilities with Firebase for secure authentication and cloud data handling. It does not enforce a specific backend architecture, so you are free to extend or adapt it to your own healthcare solution needs.  
 
@@ -21,8 +21,7 @@ The app’s core functionality resides in the `/app` module, which contains Java
 
 ## Features  
 - **Appointment Management** – Book, view, and manage doctor appointments.  
-- **Curated Health Articles** – Access verified medical content and tips.  
-- **AI Chatbot Integration** – Get instant answers to health-related queries.  
+- **Curated Health Articles** – Access verified medical content and tips.   
 - **Firebase Integration** – Secure login, authentication, and cloud storage.  
 - **User-Friendly Interface** – Clean navigation and responsive design.  
 
@@ -69,14 +68,6 @@ MediConnect targets **Android 6.0 (Marshmallow)** and above. Functionality may v
 
 ---
 
-## Documentation  
-You can extend the project documentation with:  
-- **API references** for Firebase and backend services  
-- **UI/UX design guidelines** for customization  
-- **Database schema** for MySQL or Firestore  
-
----
-
 ## Contributing  
 We welcome contributions to MediConnect!  
 If you’d like to improve the app, please:  
@@ -85,7 +76,3 @@ If you’d like to improve the app, please:
 3. Commit changes (`git commit -m 'Add feature-name'`)  
 4. Push to your branch and open a Pull Request  
 
----
-
-## License  
-This project is licensed under the [MIT License](LICENSE).  
