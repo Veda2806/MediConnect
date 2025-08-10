@@ -25,6 +25,7 @@ Project Structure
 
 
 MediConnect/
+
 ├── app/                 # Source code
 
 ├── gradle/              # Gradle wrapper files
