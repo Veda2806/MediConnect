@@ -22,6 +22,8 @@ Database: Firebase Firestore / Realtime Database
 Build System: Gradle
 
 Project Structure
+
+
 MediConnect/
 ├── app/                 # Source code
 ├── gradle/              # Gradle wrapper files
