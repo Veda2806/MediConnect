@@ -46,7 +46,7 @@ MediConnect/
 ```
 ## 🎥 Demo Video
 
-[![Watch the Demo](https://img.icons8.com/color/480/play--v1.png)](https://drive.google.com/file/d/1iLCgD-F-lv-FxZujaafn6Fn4Mi0U7GGU/view?usp=sharing)
+[<img src="https://img.icons8.com/color/480/play--v1.png" alt="Watch the Demo" width="100"/>](https://drive.google.com/file/d/1TmZImcHxKCacJKlQByTM8SpwhiKFnH15/view?usp=drive_link)
 
 ---
 
