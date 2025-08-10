@@ -45,6 +45,24 @@ Internet connection
 
 
 Installation
+
 git clone https://github.com/Veda2806/MediConnect.git
+
 cd MediConnect
 Open in Android Studio
+
+
+Contributing
+
+We welcome contributions to MediConnect!
+
+If you’d like to improve the app, please:
+
+1.Fork this repository
+
+2.Create a feature branch (git checkout -b feature-name)
+
+3.Commit changes (git commit -m 'Add feature-name')
+
+4.Push to your branch and open a Pull Request
+
