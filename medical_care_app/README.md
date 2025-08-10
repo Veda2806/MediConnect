@@ -11,7 +11,8 @@ This project combines Android Studio’s powerful UI capabilities with Firebase 
 
 ---
 ## 🎥 Demo Video
-[![MediConnect Demo](https://via.placeholder.com/800x450.png?text=MediConnect+Demo+Video)](https://drive.google.com/file/d/1TmZImcHxKCacJKlQByTM8SpwhiKFnH15/view?usp=drive_link)
+[![MediConnect Demo](https://raw.githubusercontent.com/Veda2806/MediConnect/main/demo-screenshot.png)](https://drive.google.com/file/d/1TmZImcHxKCacJKlQByTM8SpwhiKFnH15/view?usp=drive_link)
+
 
 
 ## About This Repository  
